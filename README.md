@@ -9,13 +9,6 @@ Absolutely! Here's a **complete and professional `README.md`** for your **Gestur
 Control your media player using just your hand gestures via webcam!  
 This project uses **MediaPipe**, **OpenCV**, and **PyAutoGUI** to detect hand gestures and translate them into media control commands like play/pause, volume up/down, and track navigation.
 
----
-
-## 📽️ Demo
-
-> (Add a screen recording or GIF of the project in action here for better visualization.)
-
----
 
 ## 🧠 How It Works
 
